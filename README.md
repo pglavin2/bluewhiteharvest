@@ -32,5 +32,5 @@
                  ││                      ││
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
-*Show the world you support this repo! [Change this message at markee.xyz](https://markee.xyz/ecosystem/platforms/github/0x8673cd2aa64082d8e8bce552c15065559cf28123) ^*
+*Show the world you support this repo! [Change this message at markee.xyz](https://markee.xyz/markee/0x8673cd2aa64082d8e8bce552c15065559cf28123) ^*
 <!-- MARKEE:END:0x8673cd2aa64082d8e8bce552c15065559cf28123 -->
